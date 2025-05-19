@@ -2,9 +2,8 @@ import SwiftUI
 
 struct HomeView: View {
   @Environment(\.colorScheme) private var colorScheme
-
-  @State private var searchString: String = ""
-  @State private var currentIndex = 0
+  
+	@StateObject private var vm = HomeViewModel()
 
   var body: some View {
     NavigationStack {
@@ -34,7 +33,7 @@ struct HomeView: View {
             .foregroundStyle(.secondary)
             .padding(.horizontal, 5)
 
-          TextField("Search Flightm Hotels, etc...", text: $searchString)
+          TextField("Search Flightm Hotels, etc...", text: $vm.searchString)
             .font(.subheadline)
             .bold()
         }
