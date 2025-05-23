@@ -40,3 +40,9 @@ TravelBooking/
 
 해당 프로젝트는 [아래 이미지](https://www.freepik.com/free-vector/travel-app-screens-interface-design_9182146.htm#fromView=search&page=1&position=5&uuid=be395133-8294-488b-b4f1-6a0097350b32&query=mobile+app+ui) 기반으로 구현되었습니다.
 ![과제(1)](https://github.com/user-attachments/assets/95922688-2bbf-4585-8f7e-536d657e3ffb)
+
+<br />
+
+## 📹 영상
+
+https://github.com/user-attachments/assets/38a647d3-403c-4de1-8f68-38c4f17b3b38
